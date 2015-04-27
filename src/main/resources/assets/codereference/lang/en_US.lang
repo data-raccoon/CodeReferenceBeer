@@ -1,0 +1,4 @@
+item.pint_o_beer.name=Pint 'o Beer
+item.malt.name=Malt
+tile.brewery.name=Brewery
+itemGroup.tabCRef=CodeReference, focused on beer
